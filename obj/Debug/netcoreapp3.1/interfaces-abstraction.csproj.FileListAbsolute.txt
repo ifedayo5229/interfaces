@@ -1,0 +1,13 @@
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.csprojAssemblyReference.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.AssemblyInfoInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.AssemblyInfo.cs
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.csproj.CoreCompileInputs.cache
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.exe
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.deps.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.runtimeconfig.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.runtimeconfig.dev.json
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\bin\Debug\netcoreapp3.1\interfaces-abstraction.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.dll
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.pdb
+C:\Users\AdemodiSeun\Downloads\c# Classes sbsc\interfaces-abstraction\obj\Debug\netcoreapp3.1\interfaces-abstraction.genruntimeconfig.cache
